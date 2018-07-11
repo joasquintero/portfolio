@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:cursive;
+    box-sizing:border-box;
+    
+}
+
+.contenedor{
+    width: 94%;
+    height: 100%;
+    margin: auto;
+}
+
+#center{
+    text-align: center;
+}
+
+
+#rejilla{
+    text-align: center;
+    border: solid;
+    background-color: yellow;
+}
+
+.rejillaT{
+    border: solid;
+    background-color: yellow;
+    text-align: right;
+}
+
+#ultimo{
+    text-align: right;
+}
+
+
+
+#tabla2 {
+    width: 100%;
+    
+}
+
+
+#lado{    
+    text-align: right;
+}
+
+.linea{
+    width: 100%;
+    height: 1%;
+    background-color: yellow;
+    
+}
+
